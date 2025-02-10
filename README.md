@@ -10,4 +10,6 @@ BU TOOL BILAN NIMALAR QILAMIZ?
 
 
 ESLATMA : 
-Admin panellar , Subdomain , Linklar INFO nomli papkaga saqlanadi
+Admin panellar , Subdomain , Linklar INFO nomli papkaga saqlanadi.
+
+Firdavs Abdurasulov
